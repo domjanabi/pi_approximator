@@ -26,7 +26,7 @@ By moving half to the right when inside the circle, and half to the left when ou
 
 The final step was using rayon to quickly parallelise this.
 Surely this can be further optimised, but I'm happy with it as is.
-
+However, if you think you know how to optimise this, feel free to make an issue or pull request!
 
 The program doesn't include any visualisation, so here you go:
 ![image of circle grid](./circle_grid.png)
